@@ -1,12 +1,8 @@
-Causality
+## Causality
 
-Causality for Machine Learning - Bernhard Schölkopf
-
-https://arxiv.org/pdf/1911.10500.pdf
+- Causality for Machine Learning - arXiv - Bernhard Schölkopf - [[paper]](https://arxiv.org/pdf/1911.10500.pdf)
 
 
-Language Modelelling
+## Language Modelling
 
-Single Headed Attention RNN: Stop Thinking With Your Head - Stephen Merity
-
-https://arxiv.org/pdf/1911.11423.pdf
+- Single Headed Attention RNN: Stop Thinking With Your Head - arXiv - Stephen Merity - [[paper]](https://arxiv.org/pdf/1911.11423.pdf)
