@@ -2,6 +2,8 @@
 
 - The Illustrated GPT-2 (Visualizing Transformer Language Models) - Jay Alammar - [[blog]](https://jalammar.github.io/illustrated-gpt2/)
 
+- From GRU to Transformer - Sewade Ogun - [[blog]](https://ogunlao.github.io/blog/2020/06/12/from_gru_to_transformer.html)
+
 ## Causality
 
 - Causality for Machine Learning - arXiv 2019 - Bernhard Schölkopf - [[paper]](https://arxiv.org/pdf/1911.10500.pdf)
